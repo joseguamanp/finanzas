@@ -16,7 +16,7 @@
 }
 
 #lienzo:hover .dinero1 {
-    transition: all 1s ease-in-out;
+    transition: all 1s ;
     -webkit-transform: translate(0,350px);
     -o-transform: translate(0,350px); 
     -moz-transform: translate(0,350px);
