@@ -1,0 +1,16 @@
+.dinero{
+	width: 80px;
+    height: 53px;
+}
+.personaje{
+	width: 7%;
+}
+
+
+
+#lienzo:hover .dinero {
+    transition: all 2s ease-in-out;
+    -webkit-transform: translate(0,350px);
+    -o-transform: translate(0,350px); 
+    -moz-transform: translate(0,350px);
+}
