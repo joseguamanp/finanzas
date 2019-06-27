@@ -14,3 +14,10 @@
     -o-transform: translate(0,350px); 
     -moz-transform: translate(0,350px);
 }
+
+#lienzo:hover .dinero1 {
+    transition: all 1s ease-in-out;
+    -webkit-transform: translate(0,350px);
+    -o-transform: translate(0,350px); 
+    -moz-transform: translate(0,350px);
+}
